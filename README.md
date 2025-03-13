@@ -48,19 +48,11 @@ The dataset includes various patient demographics and hospital visit details, su
   jupyter notebook
   ```
 
-## 🤝 Contributing
-Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
-
-## 📜 License
-This project is licensed under the MIT License. See `LICENSE` for details.
 
 ## 📧 Contact
 For questions or collaboration opportunities, reach out via GitHub or email.
 
 ---
 
-### 💡 Additional Notes:
-- If you generated the HTML report from a Jupyter Notebook (`.ipynb`), consider adding the original notebook to the repo.
-- If you used any specific libraries (e.g., `pandas`, `matplotlib`), list them in `requirements.txt`.
 
  
