@@ -1,7 +1,8 @@
 # HealthcareDataAnalysis
 # 🏥 Hospital Emergency Data Analysis
 
-![Hospital Emergency Room](https://www.oma.org/advocacy/stop-the-crisis/?shpath=/priorities/keep-emergency-departments-open)
+![Hospital Emergency Room](https://oma.shorthandstories.com/bf4aa5d0-dedd-4007-a27b-e7a99a8eaafd/priorities/keep-emergency-departments-open/assets/7zW7dWuUzf/istock-1452316636-3818x2608.jpg)
+
 
 ## 📌 Project Overview
 This project analyzes emergency department data to identify trends in patient admissions, wait times, and satisfaction levels. The goal is to develop insights that can help improve patient care and hospital efficiency.
